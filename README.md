@@ -7,7 +7,7 @@ Proyecto de página web para registrar hábitos con Express y PostgreSQL
 - [Docker](https://www.docker.com/) y [Docker Compose](https://docs.docker.com/compose/)
 
 ## Instalación
-1. Clonar la repo:
+1. Clonar el repositorio:
 ```bash
 git clone https://github.com/pingusdingus99/studia-ing-software.git
 cd studia-ing-software
