@@ -9,7 +9,7 @@ Proyecto de página web para registrar hábitos con Express y PostgreSQL
 ## Instalación
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/pingusdingus99/studia-ing-software.git
+git clone https://github.com/DarellGutierrez/Studia.git
 cd studia-ing-software
 ```
 2. Instalar dependencias:
